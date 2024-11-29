@@ -1,0 +1,41 @@
+header{
+    height: auto;
+    padding: 10px;
+}
+
+main{
+    background-color: bisque;
+    height: auto;
+}
+
+.container-flex-head{
+    display: flex; 
+    justify-content: space-around;
+}
+
+.accedi{
+    height: 30px;
+    width: 80px;
+}
+
+.menu{
+    height: 30px;
+    width: 600px;
+}
+
+.logo{
+    height: 30px;
+    width: 140px;
+}
+
+.paragrafo{
+    height: 300px;
+    width: 900px;
+}
+
+.container-flex-prehead{
+    display: flex;
+    flex-direction: column;
+}
+
+

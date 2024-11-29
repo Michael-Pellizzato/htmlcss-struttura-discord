@@ -1,11 +1,19 @@
-body{
-    border: 1px;
-    border-color: red;
+header{
+    background-color: aqua;
 }
 
-header{
-    border: 1px;
-    border-color: red;
-    border-style: groove;
+.logo{
+    background-color: blue;
+}
 
+.menu{
+    background-color: brown;
+}
+
+.accedi{
+    background-color: blueviolet;
+}
+
+.paragrafo{
+    background-color: red;
 }
