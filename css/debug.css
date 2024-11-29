@@ -1,0 +1,11 @@
+body{
+    border: 1px;
+    border-color: red;
+}
+
+header{
+    border: 1px;
+    border-color: red;
+    border-style: groove;
+
+}
