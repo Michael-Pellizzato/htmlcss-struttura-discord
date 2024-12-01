@@ -33,9 +33,100 @@ main{
     width: 900px;
 }
 
-.container-flex-prehead{
+.container-flex1{
     display: flex;
     flex-direction: column;
+    align-items: center;
 }
+
+#titolo{
+    background-color: blue;
+    width: 400px;
+}
+
+#paragrafo{
+    background-color: brown;
+    width: 500px;
+    height: 40px;
+}
+
+.button{
+    background-color: aqua;
+    display: flex;
+    height: auto;
+    width: auto;
+    justify-content: center;
+    gap: 30px;
+}
+
+.container-flex2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.container-flex3{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.container-flex4{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.img{
+    background-color: blue;
+    width: 600px;
+    height: 400px;
+}
+
+.descrizione{
+    background-color: blueviolet;
+    width: 600px;
+    height: 400px;
+}
+
+.container-flex5{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aliceblue;
+}
+
+.tecnologia{
+    background-color: red;
+    width: 600px;
+    height: 30px;
+}
+
+.video{
+    background-color: gold;
+    width: 600px;
+    height: 50px;
+}
+
+.img2{
+    background-color: green;
+    width: 700px;
+    height: 300px;
+}
+
+.pronto{
+    background-color: red;
+    width: 400px;
+    height: 30px;    
+}
+
+.scarica{
+    background-color: aqua;
+    display: flex;
+    height: auto;
+    width: auto;
+}
+
+
 
 
