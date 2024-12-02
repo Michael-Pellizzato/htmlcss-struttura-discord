@@ -125,8 +125,20 @@ main{
     display: flex;
     height: auto;
     width: auto;
+    
 }
 
+.container-flex-footer{
+    background-color: aqua;
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+}
 
+.tend{
+    width: 200px;
+    height: 400px;
+    background-color: brown;
+}
 
 
